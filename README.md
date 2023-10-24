@@ -34,9 +34,10 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theogachet&show_icons=true&theme=radical)
 
 ### 📫 How to reach me
-- Email: theo.gachet.pro@outlook.fr
-- LinkedIn: [linkedin.com/in/theogachet](https://linkedin.com/in/theogachet)
-- Personal Website: [theogachet.com](http://theogachet.com)
+
+[<img src="https://img.shields.io/badge/LinkedIn-theo-gachet-white?style=flat&logo=linkedin&labelColor=blue">](https://linkedin.com/in/theogachet)
+[<img src="https://img.shields.io/badge/Email-theo.gachet.pro@outlook.fr-orange">](mailto:theo.gachet.pro@outlook.fr)
+[<img src="https://img.shields.io/badge/Personal%20Portfolio-theogachet.com-red">](https://theogachet.com)
 
 ---
 
