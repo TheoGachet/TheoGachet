@@ -50,16 +50,30 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 - **Trivia Game Multi-Threaded**: Creating a multi-threaded trivia game application.
   
 ### 🏆 Achievements
-- 1st Place in France, Baccalauréat Scientifique - Section Euro.
-- Winner of the Python Optimization Challenge among 95+ students.
-- 1st Place in 3D Modeling Challenge, AREM Robotics Association.
+
+- **High School Scientific Diploma**: 
+  - 🥇 Ranked **1st in France**
+  - 📜 Mark: **20.3/20**
+
+- **Python Optimization Contest**: 
+  - 🥇 Ranked **1st** among **95+ students**
+
+- **3D Modeling Competition**: 
+  - 🥇 Ranked **1st**
+  - 🏆 Awarded by the Robotics Association
+
+- **Robotics Hackathon**: 
+  - 🥈 Ranked **2nd**
+  - 🤖 In collaboration with **A REM & ST Microelectronics**
+
+- **École Polytechnique Summer Camp**: 
+  - 🎓 Selected among **50 students** from all over France
+
+- **National Chemistry Olympiads**: 
+  - 🏆 Finalist during High School
 
 ### 📈 Stats
 ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theogachet&show_icons=true&theme=radical)
-
-### 📫 How to reach me
-
-
 
 ---
 
