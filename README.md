@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Théo Gachet 👋</h1>
+<h1 align="center">Hello there, I'm Théo Gachet 👋</h1>
 <h3 align="center">MSc Student passionate about Machine Learning & Data Science</h3>
 
 <p align="center">
