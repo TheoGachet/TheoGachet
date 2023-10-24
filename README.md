@@ -52,9 +52,7 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 -->
 
 ### 📈 Stats
-<p align="center">
-  ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theogachet&show_icons=true&theme=radical)
-</p>
+![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theogachet&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
