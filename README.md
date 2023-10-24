@@ -51,26 +51,12 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
   
 ### 🏆 Achievements
 
-- **High School Scientific Diploma**: 
-  - 🥇 Ranked **1st in France**
-  - 📜 Mark: **20.3/20**
-
-- **Python Optimization Contest**: 
-  - 🥇 Ranked **1st** among **95+ students**
-
-- **3D Modeling Competition**: 
-  - 🥇 Ranked **1st**
-  - 🏆 Awarded by the Robotics Association
-
-- **Robotics Hackathon**: 
-  - 🥈 Ranked **2nd**
-  - 🤖 In collaboration with **A REM & ST Microelectronics**
-
-- **École Polytechnique Summer Camp**: 
-  - 🎓 Selected among **50 students** from all over France
-
-- **National Chemistry Olympiads**: 
-  - 🏆 Finalist during High School
+- **High School Scientific Diploma**: 🥇 1st in France, Mark: 20.3/20
+- **Python Optimization Contest**: 🥇 1st among 95+ students
+- **3D Modeling Competition**: 🥇 1st, awarded by the Robotics Association
+- **Robotics Hackathon**: 🥈 2nd, in collaboration with A REM & ST Microelectronics
+- **École Polytechnique Summer Camp**: Selected among 50 students from all over France
+- **National Chemistry Olympiads**: Finalist during High School
 
 ### 📈 Stats
 ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theogachet&show_icons=true&theme=radical)
