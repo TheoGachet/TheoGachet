@@ -35,7 +35,9 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 
 ### 📫 How to reach me
 
-[<img src="https://img.shields.io/badge/LinkedIn-theogachet-white?style=flat&logo=linkedin&labelColor=blue">](https://linkedin.com/in/theogachet)
+[<img src="https://img.shields.io/badge/LinkedIn-patrykchlanda-white?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/theogachet/)
+
+[<img src="https://img.shields.io/badge/LinkedIn-theo-gachet-white?style=flat&logo=linkedin&labelColor=blue">](https://linkedin.com/in/theogachet)
 [<img src="https://img.shields.io/badge/Email-theo.gachet.pro@outlook.fr-orange">](mailto:theo.gachet.pro@outlook.fr)
 [<img src="https://img.shields.io/badge/Personal%20Portfolio-theogachet.com-red">](https://theogachet.com)
 
