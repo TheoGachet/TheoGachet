@@ -25,35 +25,21 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 
 ### 📚 Projects
 
-- **Text Prediction with TESS**: A collaborative project by Kawtar El Mamoun and myself, focusing on creating a user-friendly human-machine interface with intelligent word suggestions for incomplete input. [C, Updated on Sep 4](https://github.com/theogachet/text-prediction)
-
-- **Machine Translation with Transformer**: Implementation of a Portuguese-to-English translation model using the Transformer architecture. [Jupyter Notebook, Updated on Aug 3](https://github.com/theogachet/machine-translation-with-transformer)
-
-- **Machine Translation with Attention**: French to English text translation using Seq2Seq with attention mechanisms. [Jupyter Notebook, Updated on Aug 3](https://github.com/theogachet/machine-translation-with-attention)
-
-- **Homemade SSD**: A project dedicated to creating a custom Single Shot MultiBox Detector (SSD) for object detection. [Python, Updated on Aug 3](https://github.com/theogachet/homemade-ssd)
-
-- **Time Series Analysis on Wafers**: Collaborative project with Kawtar El Mamoun, focused on preprocessing time series data to predict and analyze the average surface material removal rate. [C, Updated on Aug 2](https://github.com/theogachet/times-series-wafers)
-
-- **Drone Simulator**: Simulating fly vision and behavior through a bio-robot using biomimicry. [MATLAB, Updated on Aug 2](https://github.com/theogachet/drone-simulator)
-
-- **Digit Classifier for 404 CTF Hackathon**: Used artificial intelligence to decrypt a code by classifying images of handwritten digits. [Python, Updated on Aug 2](https://github.com/theogachet/digit-classifier)
-
-- **DNA Sequencing**: Predicting the influence of genetic variation on gene regulation mechanisms in eukaryotic cells. [Python, Updated on Aug 2](https://github.com/theogachet/dna-sequencing)
-
-- **Pneumonia Diagnosis with CNN**: Image classification project to classify medical scans for pneumonia diagnosis using Convolutional Neural Networks. [Python, Updated on Aug 2](https://github.com/theogachet/pneumonia-diagnosis)
-
-- **Robot PIC18**: An autonomous object-following robot project powered by a PIC18 microcontroller. [C, Updated on Aug 2](https://github.com/theogachet/robot-pic18)
-
-- **Challenge Optimization in Python**: Implementations of algorithms aimed at solving the surveillance optimization problem. [Python, Updated on Aug 2](https://github.com/theogachet/challenge_optimisation_python)
-
-- **Challenge Optimization in Julia**: Optimizing the placement of surveillance points in a 2D grid using Julia. [Julia, Updated on Aug 2](https://github.com/theogachet/challenge_optimisation_julia)
-
-- **House Pricing Prediction**: Predicting real estate prices in France using machine learning. [Python, Updated on Aug 2](https://github.com/theogachet/house-pricing)
-
-- **Robot Antarctica**: Developing an autonomous rover for Antarctica exploration. [C++, Updated on Jul 21](https://github.com/theogachet/robot_antarctica)
-
-- **Trivia Game Multi-Threaded**: A multi-threaded application inspired by the game "Questions pour un Champion". [Language Not Specified, Updated on Date Not Specified](https://github.com/theogachet/trivia-game-multi-threaded)
+- **Text Prediction with TESS**: Project focusing on creating a user-friendly human-machine interface with intelligent word suggestions for incomplete input.
+- **Machine Translation with Transformer**: Implementation of a Portuguese-to-English translation model using the Transformer architecture. 
+- **Machine Translation with Attention**: French to English text translation using Seq2Seq with attention mechanisms.
+- **Homemade SSD**: A project dedicated to creating a custom Single Shot MultiBox Detector (SSD) for object detection.
+- **Time Series Analysis on Wafers**: Collaborative project with Kawtar El Mamoun, focused on preprocessing time series data to predict and analyze the average surface material removal rate.
+- **Drone Simulator**: Simulating fly vision and behavior through a bio-robot using biomimicry.
+- **Digit Classifier for 404 CTF Hackathon**: Used artificial intelligence to decrypt a code by classifying images of handwritten digits.
+- **DNA Sequencing**: Predicting the influence of genetic variation on gene regulation mechanisms in eukaryotic cells.
+- **Pneumonia Diagnosis with CNN**: Image classification project to classify medical scans for pneumonia diagnosis using Convolutional Neural Networks.
+- **Robot PIC18**: An autonomous object-following robot project powered by a PIC18 microcontroller.
+- **Challenge Optimization in Python**: Implementations of algorithms aimed at solving the surveillance optimization problem.
+- **Challenge Optimization in Julia**: Optimizing the placement of surveillance points in a 2D grid using Julia.
+- **House Pricing Prediction**: Predicting real estate prices in France using machine learning.
+- **Robot Antarctica**: Developing an autonomous rover for Antarctica exploration.
+- **Trivia Game Multi-Threaded**: A multi-threaded application inspired by the game "Questions pour un Champion".
 
 ### 🏆 Achievements
 - 1st Place in France, Baccalauréat Scientifique - Section Euro.
