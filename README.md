@@ -19,7 +19,7 @@
 
 
 ### 👨‍💻 About Me
-I am a student at École des Mines de Saint-Étienne, currently pursuing my engineering degree in Computer Science. I am passionate about Machine Learning, Data Science, and AI. With a strong foundation in mathematics and programming, I strive to solve real-world problems and contribute to innovative projects. You can view my full resume [here](http://theogachet.com/resume-theo-gachet).
+I am a student at École des Mines de Saint-Étienne, currently pursuing my engineering degree in Computer Science. I am passionate about Machine Learning and Data Science. With a strong foundation in mathematics and programming, I strive to solve real-world problems and contribute to innovative projects. You can view my full resume [here](http://theogachet.com/resume-theo-gachet).
 
 <!--
 ### 📚 Projects
