@@ -17,6 +17,18 @@
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="neon-banner" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
+
 ---
 
 ### 👨‍💻 About Me
