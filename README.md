@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Théo Gachet 👋</h1>
 <h3 align="center">MSc Student passionate about Machine Learning & Data Science</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-theogachet-white?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/theogachet/)
+[<img src="https://img.shields.io/badge/LinkedIn-theogachet-white?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/theo-gachet/)
 [<img src="https://img.shields.io/badge/Email-theo.gachet.pro@outlook.fr-orange">](mailto:theo.gachet.pro@outlook.fr)
 [<img src="https://img.shields.io/badge/Personal%20Portfolio-theogachet.com-red">](https://theogachet.com)
 
