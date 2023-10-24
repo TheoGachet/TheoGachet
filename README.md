@@ -33,22 +33,22 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 
 ### 📚 Projects
 
-- **Text Prediction with TESS**: Project focusing on creating a user-friendly human-machine interface with intelligent word suggestions for incomplete input.
-- **Machine Translation with Transformer**: Implementation of a Portuguese-to-English translation model using the Transformer architecture. 
-- **Machine Translation with Attention**: French to English text translation using Seq2Seq with attention mechanisms.
-- **Homemade SSD**: A project dedicated to creating a custom Single Shot MultiBox Detector (SSD) for object detection.
-- **Time Series Analysis on Wafers**: Collaborative project with Kawtar El Mamoun, focused on preprocessing time series data to predict and analyze the average surface material removal rate.
-- **Drone Simulator**: Simulating fly vision and behavior through a bio-robot using biomimicry.
-- **Digit Classifier for 404 CTF Hackathon**: Used artificial intelligence to decrypt a code by classifying images of handwritten digits.
-- **DNA Sequencing**: Predicting the influence of genetic variation on gene regulation mechanisms in eukaryotic cells.
-- **Pneumonia Diagnosis with CNN**: Image classification project to classify medical scans for pneumonia diagnosis using Convolutional Neural Networks.
-- **Robot PIC18**: An autonomous object-following robot project powered by a PIC18 microcontroller.
-- **Challenge Optimization in Python**: Implementations of algorithms aimed at solving the surveillance optimization problem.
-- **Challenge Optimization in Julia**: Optimizing the placement of surveillance points in a 2D grid using Julia.
-- **House Pricing Prediction**: Predicting real estate prices in France using machine learning.
-- **Robot Antarctica**: Developing an autonomous rover for Antarctica exploration.
-- **Trivia Game Multi-Threaded**: A multi-threaded application inspired by the game "Questions pour un Champion".
-
+- **Text Prediction with TESS**: A human-machine interface providing intelligent word suggestions for incomplete inputs.
+- **Machine Translation with Transformer**: Portuguese-to-English translation using the Transformer model.
+- **Machine Translation with Attention**: Seq2Seq model with attention mechanisms for French to English translation.
+- **Homemade SSD**: Building a custom Single Shot MultiBox Detector for object detection.
+- **Time Series Analysis on Wafers**: Collaborative project aiming to analyze material removal rates from time series data.
+- **Drone Simulator**: Bio-robot replicating fly vision and behavior using biomimicry.
+- **Digit Classifier for 404 CTF Hackathon**: AI-based digit classifier to decrypt a code during a hackathon.
+- **DNA Sequencing**: Predicting genetic variation impacts on gene regulation in eukaryotic cells.
+- **Pneumonia Diagnosis with CNN**: Using Convolutional Neural Networks for classifying pneumonia in medical scans.
+- **Robot PIC18**: An autonomous robot that follows objects, powered by a PIC18 microcontroller.
+- **Challenge Optimization in Python**: Solving surveillance optimization problems with various algorithms.
+- **Challenge Optimization in Julia**: Using Julia to optimize surveillance point placement.
+- **House Pricing Prediction**: A machine learning model predicting real estate prices in France.
+- **Robot Antarctica**: Developing a rover for autonomous exploration in Antarctic conditions.
+- **Trivia Game Multi-Threaded**: Creating a multi-threaded trivia game application.
+  
 ### 🏆 Achievements
 - 1st Place in France, Baccalauréat Scientifique - Section Euro.
 - Winner of the Python Optimization Challenge among 95+ students.
