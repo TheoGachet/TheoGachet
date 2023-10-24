@@ -58,6 +58,10 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 - **École Polytechnique Summer Camp**: Selected among 50 students from all over France
 - **National Chemistry Olympiads**: Finalist during High School
 
+## 📜 Resume
+
+You can view my full resume [here](http://theogachet.com/resume-theo-gachet).
+
 ### 📈 Stats
 ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theogachet&show_icons=true&theme=radical)
 
