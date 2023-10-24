@@ -33,6 +33,7 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+<!--
 ### 📚 Projects
 
 - **Text Prediction with TESS**: A human-machine interface providing intelligent word suggestions for incomplete inputs.
@@ -59,9 +60,9 @@ I am a student at École des Mines de Saint-Étienne, currently pursuing my engi
 - **Robotics Hackathon**: 🥈 2nd, in collaboration with A REM & ST Microelectronics
 - **École Polytechnique Summer Camp**: Selected among 50 students from all over France
 - **National Chemistry Olympiads**: Finalist during High School
+-->
 
-## 📜 Resume
-
+### 📜 Resume
 You can view my full resume [here](http://theogachet.com/resume-theo-gachet).
 
 ### 📈 Stats
