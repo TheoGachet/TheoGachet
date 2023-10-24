@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Théo Gachet 👋</h1>
-<h3 align="center">Passionate Machine Learning Engineer & Data Scientist</h3>
+<h3 align="center">MSc Student passionate about Machine Learning & Data Science</h3>
 
 <p align="center">
-  <img src="https://your-neon-image-url.com" alt="neon-banner" />
+  <img src="[https://your-neon-image-url.com](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)" alt="neon-banner" />
 </p>
 
 ---
