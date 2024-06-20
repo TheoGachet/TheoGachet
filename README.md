@@ -19,7 +19,7 @@
 
 
 ### 👨‍💻 About Me
-I am a French student at École des Mines de Saint-Étienne, currently pursuing my engineering degree in Computer Science, and passionate about Machine Learning and Data Science. With a strong foundation in mathematics and programming, I strive to solve real-world problems and contribute to innovative projects. You can view my full resume [here](http://theogachet.com/resume-theo-gachet).
+Currently working as an AI intern at the European Space Agency (ESA), I am a French student pursuing a Double Master in Machine Learning at Polytechnique Montréal (Canada) after 2 years at École des Mines de Saint-Étienne (France). Passionate about computer science and mathematics, I'm driven to explore and develop AI solutions that transform our technological interactions and expand the frontiers of space exploration. For more details, you can view my full resume [here](http://theogachet.com/resume-theo-gachet).
 
 <!--
 ### 📚 Projects
