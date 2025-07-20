@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Théo Gachet 👋</h1>
-<h3 align="center">Double MSc Student passionate about Machine Learning & Data Science</h3>
+<h3 align="center">Double MSc Student passionate about Machine Learning, Finance, and Space Exploration</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theo-gachet/">
